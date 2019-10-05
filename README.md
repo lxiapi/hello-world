@@ -1,2 +1,3 @@
 # hello-world
-Simpie and profound
+Simple and profound
+I like this a style
